@@ -1,0 +1,11 @@
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\bin\Debug\netcoreapp2.0\EmployeeEntityFrame.deps.json
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\bin\Debug\netcoreapp2.0\EmployeeEntityFrame.runtimeconfig.json
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\bin\Debug\netcoreapp2.0\EmployeeEntityFrame.runtimeconfig.dev.json
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\bin\Debug\netcoreapp2.0\EmployeeEntityFrame.dll
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\obj\Debug\netcoreapp2.0\EmployeeEntityFrame.csprojAssemblyReference.cache
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\obj\Debug\netcoreapp2.0\EmployeeEntityFrame.csproj.CoreCompileInputs.cache
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\obj\Debug\netcoreapp2.0\EmployeeEntityFrame.AssemblyInfoInputs.cache
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\obj\Debug\netcoreapp2.0\EmployeeEntityFrame.AssemblyInfo.cs
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\bin\Debug\netcoreapp2.0\EmployeeEntityFrame.pdb
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\obj\Debug\netcoreapp2.0\EmployeeEntityFrame.dll
+C:\Users\Ramya.Vempalla\source\repos\EmployeeEntityFrame\EmployeeEntityFrame\obj\Debug\netcoreapp2.0\EmployeeEntityFrame.pdb
